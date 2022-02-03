@@ -9,7 +9,7 @@ public class BankAccount {
     private final String customerName;
     private final String customerID;
 
-    BankAccount(String customerName, String customerID) {
+    public BankAccount(String customerName, String customerID) {
         this.customerName = customerName;
         this.customerID =  customerID;
     }
