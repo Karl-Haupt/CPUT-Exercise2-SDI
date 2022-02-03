@@ -6,6 +6,9 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/* @author: Karl H - 220236585 */
+// Allows a user to interact with their bank account
+
 class BankAccountTest {
     private BankAccount bankAccount1;
     private BankAccount bankAccount2;
